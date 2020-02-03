@@ -1,0 +1,9 @@
+name: TapID
+prefix: TapID
+main: jp\mcbe\TapID\Main
+version: 1.0.0
+api: 3.10.0 # pmmp/PocketMine-MP
+author: tabasco12
+authors:
+  - yuko_fuyutsuki
+website: https://github.com/fuyutsuki/TapID
